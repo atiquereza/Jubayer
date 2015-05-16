@@ -1,0 +1,6 @@
+D:\Projects\ModemSMSApp\ModemSMSApp\bin\Debug\ModemSMSApp.exe.config
+D:\Projects\ModemSMSApp\ModemSMSApp\bin\Debug\ModemSMSApp.exe
+D:\Projects\ModemSMSApp\ModemSMSApp\bin\Debug\ModemSMSApp.pdb
+D:\Projects\ModemSMSApp\ModemSMSApp\obj\Debug\ModemSMSApp.csprojResolveAssemblyReference.cache
+D:\Projects\ModemSMSApp\ModemSMSApp\obj\Debug\ModemSMSApp.exe
+D:\Projects\ModemSMSApp\ModemSMSApp\obj\Debug\ModemSMSApp.pdb
